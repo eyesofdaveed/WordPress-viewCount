@@ -1,0 +1,13 @@
+/*
+Theme Name: Storefront-child
+Template: Storefront
+
+*/
+
+/* Parent's style import */
+@import url("../../storefront/style.css");
+
+/* Custom css*/
+.foo{ 
+color:red; 
+}
